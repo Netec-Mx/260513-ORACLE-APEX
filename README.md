@@ -1,12 +1,17 @@
-# Desarrollo con Oracle APEX
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
+# Desarrollo en APEX
+
+## Plataforma de laboratorios
+
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Desarrollo en APEX**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
 Curso práctico para desarrollar aplicaciones web con Oracle APEX, desde configuración de workspace hasta seguridad, procesamiento y despliegue, aplicando técnicas para integrar datos Oracle en soluciones empresariales robustas.
 
-## Estructura
-
-- `CapituloXX/README.md`: guía de laboratorio por capítulo.
 
 ## Lista de laboratorios
+
+Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
 ### Capítulo 1
 
@@ -67,9 +72,16 @@ Curso práctico para desarrollar aplicaciones web con Oracle APEX, desde configu
 - [Despliegue, integración y checklist de producción](Capitulo10/README.md#despliegue-integración-y-checklist-de-producción)
   - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
   - Duración estimada: 52 min
+    
+## 📬 **Contacto y más información**
 
-## Flujo de colaboración
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
+
+
